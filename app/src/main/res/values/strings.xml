@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">forlogogenerator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="font">フォント</string>
+    <string name="color">色</string>
+    <string-array name = "font_array">
+        <item>ふつう</item>
+        <item>斜体</item>
+        <item>太字</item>
+    </string-array>
+    <string-array name = "color_array">
+        <item>黒</item>
+        <item>ダークグレー</item>
+        <item>グレー</item>
+        <item>白</item>
+        <item>青</item>
+        <item>ラベンダー</item>
+        <item>ミッドナイトブルー</item>
+        <item>紫</item>
+        <item>紺</item>
+        <item>赤</item>
+        <item>ピンク</item>
+        <item>ダークピンク</item>
+        <item>ライトピンク</item>
+        <item>黄色</item>
+        <item>オレンジ</item>
+        <item>ダークオレンジ</item>
+        <item>緑</item>
+        <item>黄緑</item>
+        <item>オリーヴ</item>
+        <item>茶色</item>
+        <item>チョコレート</item>
+        <item>お楽しみ色</item>
+    </string-array>
+</resources>
